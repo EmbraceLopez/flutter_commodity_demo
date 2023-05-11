@@ -1,0 +1,2 @@
+# flutter_commodity_demo
+基于flutter实现的商品浏览App示例
