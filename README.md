@@ -1,4 +1,4 @@
-# flutter_jd
+# flutter_commodity_demo
 
 A new Flutter project.
 
